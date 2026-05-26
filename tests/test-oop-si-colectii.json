@@ -1,0 +1,78 @@
+{
+  "metadata" : {
+    "testName" : "Test OOP si Colectii",
+    "subject" : "Programare Java",
+    "gradeIntervals" : [ {
+      "grade" : 1,
+      "minPercentage" : 0.0,
+      "maxPercentage" : 9.99
+    }, {
+      "grade" : 2,
+      "minPercentage" : 10.0,
+      "maxPercentage" : 19.99
+    }, {
+      "grade" : 3,
+      "minPercentage" : 20.0,
+      "maxPercentage" : 29.99
+    }, {
+      "grade" : 4,
+      "minPercentage" : 30.0,
+      "maxPercentage" : 39.99
+    }, {
+      "grade" : 5,
+      "minPercentage" : 40.0,
+      "maxPercentage" : 49.99
+    }, {
+      "grade" : 6,
+      "minPercentage" : 50.0,
+      "maxPercentage" : 59.99
+    }, {
+      "grade" : 7,
+      "minPercentage" : 60.0,
+      "maxPercentage" : 69.99
+    }, {
+      "grade" : 8,
+      "minPercentage" : 70.0,
+      "maxPercentage" : 79.99
+    }, {
+      "grade" : 9,
+      "minPercentage" : 80.0,
+      "maxPercentage" : 89.99
+    }, {
+      "grade" : 10,
+      "minPercentage" : 90.0,
+      "maxPercentage" : 100.0
+    } ]
+  },
+  "questions" : [ {
+    "id" : 1,
+    "text" : "Enunt:",
+    "options" : [ "Set", "HashSet", "ArrayList", "TreeSet" ],
+    "correctOption" : 3,
+    "score" : 2.5
+  }, {
+    "id" : 2,
+    "text" : "Ce cuvant-cheie se foloseste pentru mostenire intre clase?",
+    "options" : [ "implements", "extends", "inherit", "super" ],
+    "correctOption" : 2,
+    "score" : 3.0
+  }, {
+    "id" : 3,
+    "text" : "Care metoda afiseaza text in consola?",
+    "options" : [ "print()", "console()", "System.out.println()", "write()" ],
+    "correctOption" : 3,
+    "score" : 2.0
+  }, {
+    "id" : 4,
+    "text" : "Ce tip de date folosim pentru numere reale?",
+    "options" : [ "int", "boolean", "double", "char" ],
+    "correctOption" : 3,
+    "score" : 2.5
+  }, {
+    "id" : 5,
+    "text" : "Ce structura repeta instructiuni?",
+    "options" : [ "if", "for", "switch", "class" ],
+    "correctOption" : 2,
+    "score" : 3.0
+  } ]
+}
